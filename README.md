@@ -17,3 +17,4 @@ Vehicle State Estimation using Error-State Extended Kalman Filter
 - We will have access to the actual pose and velocity values from Carla for a large section of the trajectory. So you will be able to compare your trajectory estimates to the ground truth data.
 
 ## Solution Approach
+![Screenshot_3](https://user-images.githubusercontent.com/30608533/63162879-5d6c8d80-c02c-11e9-91d4-f7f75809e3bb.jpg)
