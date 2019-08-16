@@ -47,7 +47,7 @@ Vehicle State Estimation using Error-State Extended Kalman Filter
 
 
 # Final Notes:
-- This is a module assginnment project from State Estimation and Localization course of **Self-Driving Cars Specialization by University of Toronto.**
+- This is a module assignnment project from State Estimation and Localization course of **Self-Driving Cars Specialization by University of Toronto.**
 
 - All of the data from Carla Simulator contained as the Python pickle (pkl) file inside the Data folder
 
