@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f3fab34b-0de8-448c-ab86-9577fc36d7ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../../Convolutional Neural Networks/Week1/Convolution+model+-+Application+-+v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Convolutional Neural Networks/Week1/Convolution+model+-+Step+by+Step+-+v2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Improving Deep Neural Networks -  Hyperparameter tuning, Regularization and Optimization/Week1/Gradient+Checking+v1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Improving Deep Neural Networks -  Hyperparameter tuning, Regularization and Optimization/Week1/Initialization.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Improving Deep Neural Networks -  Hyperparameter tuning, Regularization and Optimization/Week1/Regularization+-+v2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Improving Deep Neural Networks -  Hyperparameter tuning, Regularization and Optimization/Week2/Optimization+methods.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Improving Deep Neural Networks -  Hyperparameter tuning, Regularization and Optimization/Week3/Tensorflow+Tutorial.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Coursera 74BGEPG6L7XN.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week1/1.What's Neural Network.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week1/2.Supervised Learning with Neural Networks.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week1/3.Why is Deep Learning taking off?.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week1/4.About this Course.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week1/5.Course Resources.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/1.Binary Classification.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/10.Gradient Descent on m Examples.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/11. Vectorization.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/12.More Vectorization Examples  .mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/13.Vectorizing Logistic Regression.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/14.Vectorizing Logistic Regression's Gradient Output.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/15.Broadcasting in Python.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/16.A note on python-numpy vectors.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/17.Quick tour of Jupyter-iPython Notebooks.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/18.Explanation of logistic regression cost function (optional).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/2.Logistic Regression.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/3.Logistic Regression Cost Function.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/4.Logistic Regression Cost Function.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/5.Derivatives.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/6.More Derivative Examples.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/7.Computation graph.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/8.Derivatives with a Computation Graph.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/9.Logistic Regression Gradient Descent.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/Logistic+Regression+with+a+Neural+Network+mindset+v5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week2/Python+Basics+With+Numpy+v3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/1.Neural Networks Overview.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/10.Backpropagation intuition (optional).mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/11.Random Initialization.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/2.Neural Network Representation.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/3.Computing a Neural Network's Output.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/4.Vectorizing across multiple examples.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/5.Explanation for Vectorized Implementation.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/6.Activation functions.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/7.Why do you need non-linear activation functions?.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/8.Derivatives of activation functions.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/9.Gradient descent for Neural Networks.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week3/Planar+data+classification+with+one+hidden+layer+v5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/1.Deep L-layer neural network.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/2.Forward Propagation in a Deep Network.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/3.Getting your matrix dimensions right.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/4.Why deep representations?.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/5.Building blocks of deep neural networks.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/6.Forward and Backward Propagation.mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/7.Parameters vs Hyperparameters  .mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/8.What does this have to do with the brain?  .mp4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/Building+your+Deep+Neural+Network+-+Step+by+Step+v8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../Neural Networks and Deep Learning/Week4/Deep+Neural+Network+-+Application+v8.py" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/es_ekf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="y" value="-10" />
+    <option name="width" value="2420" />
+    <option name="height" value="1370" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ES-EKF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ES-EKF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ES-EKF" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="ES-EKF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="ES-EKF" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.." />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3fab34b-0de8-448c-ab86-9577fc36d7ee" name="Default Changelist" comment="" />
+      <created>1562055978489</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562055978489</updated>
+      <workItem from="1562055980196" duration="794000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="794000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/es_ekf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="26" column="33" lean-forward="true" selection-start-line="26" selection-start-column="33" selection-end-line="26" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
