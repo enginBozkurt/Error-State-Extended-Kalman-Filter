@@ -38,4 +38,18 @@ Vehicle State Estimation using Error-State Extended Kalman Filter
 ![Screenshot_10](https://user-images.githubusercontent.com/30608533/63163602-82fa9680-c02e-11e9-9709-e079a5462459.jpg)
 
 
+# Running 
+
+- To run es_ekf.py, simply call **python es_ekf.py** from the command line or 'run es_ekf.py' from within an interactive shell.
+
+- As the code runs, some visualizations (plots) will already appear for you, including a plot of the ground truth trajectory, a plot of the ground truth trajectory compared to your estimated trajectory, and six error plots.
+
+
+
+# Final Notes:
+- This is a module assginnment project from State Estimation and Localization course of **Self-Driving Cars Specialization by University of Toronto.**
+
+- All of the data from Carla Simulator contained as the Python pickle (pkl) file inside the Data folder
+
+- The data folder contains the data you will use for the project, and the rotations.py file contains a Quaternion class
 
