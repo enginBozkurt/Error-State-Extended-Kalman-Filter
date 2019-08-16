@@ -15,3 +15,5 @@ Vehicle State Estimation using Error-State Extended Kalman Filter
 - Whenever a GNSS or LiDAR measurement becomes available, you will execute the appropriate common gain computation, error state, and covariance updates.
 
 - We will have access to the actual pose and velocity values from Carla for a large section of the trajectory. So you will be able to compare your trajectory estimates to the ground truth data.
+
+## Solution Approach
